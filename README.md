@@ -40,7 +40,8 @@ Usage example:
 
 ### Run automated tests:
 
-```make test
+```
+make test
 ```
 ```Technologies
 
