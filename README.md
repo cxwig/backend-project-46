@@ -43,7 +43,8 @@ Usage example:
 ```
 make test
 ```
-```Technologies
+Technologies
+```
 
 Node.js
 
@@ -51,4 +52,5 @@ Commander.js
 
 Jest
 
-Eslint```
+Eslint
+```
